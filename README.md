@@ -9,7 +9,7 @@ This project develops a regression model to predict bus travel time on selected 
 ## How to Use
 
 1. Download the full dataset and notebook: [Google Drive Folder](https://drive.google.com/drive/folders/1cQY5cjyrDEXZ-b20WAeYJzlw6TOnhOGP?usp=drive_link)
-2. Open `Consolidated_data.ipynb` in Jupyter or Google Colab.
+2. Open `Consolidated_data.ipynb` in Jupyter or your preferred IDE.
 3. Ensure the following Python packages are installed:
 
 ```python
