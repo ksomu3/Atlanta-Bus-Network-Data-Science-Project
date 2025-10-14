@@ -1,4 +1,4 @@
-# Atlanta-Bus-Network-Data-Science-Project
+# Atlanta Bus Network Data Science Project
 
 This project develops an XGBoost model to predict bus travel time on selected low On-Time Performance (OTP) routes operated by MARTA (Metropolitan Atlanta Rapid Transit Authority). The model uses engineered features from multiple sources including weather, traffic, passenger activity, operator behavior, and vehicle maintenance. SHAP (SHapley Additive exPlanations) is used to interpret the model’s predictions. For more in depth context, please review the report. 
 
